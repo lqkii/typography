@@ -1,8 +1,20 @@
-h1 {
+body {
+    background-image: url("images/background.jpg");
+    width: auto;
+    background-position: center;
+    display: block;
+    background-position: 0;
+    background-size: 100%;
+    background-repeat: repeatt;
+
+}
+
+div {
     font-family: 'Times New Roman', Times, serif;
     font-weight: lighter;
     font-size: 3rem;
     margin-top: 45%;
+    margin-left: 10%;
 }
 
 #l1 {
