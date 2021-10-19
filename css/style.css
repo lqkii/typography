@@ -1,0 +1,214 @@
+body {
+    background-image: url("../images/background.jpg");
+    width: auto;
+    background-position: center;
+    display: block;
+    background-position: 0;
+    background-size: 100%;
+    background-repeat: repeatt;
+
+}
+
+div {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    font-size: 3rem;
+    margin-top: 10%;
+    margin-left: 10%;
+    opacity: 40%;
+}
+
+h1 {
+    font-size: 14rem;
+    margin-bottom: -3%;
+    text-align: left;
+    font-weight: normal;
+    margin-left: 9.5%;
+    margin-top: 0%
+}
+
+h2 {
+    font-weight: normal;
+    text-align: left;
+    font-size: 1.2rem;
+    margin-left: 10%;
+    margin-bottom: -10%;
+}
+
+.l1 {
+    margin-top: 40%;
+}
+
+.l2 {
+    margin-left: 10.5%;
+}
+
+.l6 {
+    margin-left: 10.5%;
+}
+
+.l7 {
+    margin-left: 10.5%;
+}
+
+.l10 {
+    margin-left: 10.5%;
+}
+
+.l11 {
+    margin-left: 10.5%;
+}
+
+.l12 {
+    margin-left: 10.5%;
+}
+
+.l13 {
+    margin-left: 10.5%;
+}
+
+.l14 {
+    margin-left: 10.5%;
+}
+
+.l1:hover {
+    opacity: 100%;
+    transition: opacity 1s ease-out;
+}
+
+.l2:hover {
+    opacity: 100%;
+    transition: opacity 1s ease-out;
+}
+
+.l3:hover {
+    opacity: 100%;
+    transition: opacity 1s ease-out;
+}
+
+.l4:hover {
+    opacity: 100%;
+    transition: opacity 1s ease-out;
+}
+
+.l5:hover {
+    opacity: 100%;
+    transition: opacity 1s ease-out;
+}
+
+.l6:hover {
+    opacity: 100%;
+    transition: opacity 1s ease-out;
+}
+
+.l7:hover {
+    opacity: 100%;
+    transition: opacity 1s ease-out;
+}
+
+.l8:hover {
+    opacity: 100%;
+    transition: opacity 1s ease-out;
+}
+
+.l9:hover {
+    opacity: 100%;
+    transition: opacity 1s ease-out;
+}
+
+.l10:hover {
+    opacity: 100%;
+    transition: opacity 1s ease-out;
+}
+
+.l11:hover {
+    opacity: 100%;
+    transition: opacity 1s ease-out;
+}
+
+.l12:hover {
+    opacity: 100%;
+    transition: opacity 1s ease-out;
+}
+
+.l13:hover {
+    opacity: 100%;
+    transition: opacity 1s ease-out;
+}
+
+.l14:hover {
+    opacity: 100%;
+    transition: opacity 1s ease-out;
+}
+
+
+#l1hover:hover {
+    color: red;
+    opacity: 100%;
+    transition: color 1s ease-out;
+}
+
+#l2hover:hover {
+    color: rgb(50, 139, 255);
+    transition: color 1s ease-out;
+}
+
+#l3hover:hover {
+    color: rgb(50, 139, 255);
+    transition: color 1s ease-out;
+}
+
+#l4hover:hover {
+    color: blueviolet;
+    transition: color 1s ease-out;
+}
+
+#l5hover:hover {
+    color: rgb(255, 199, 16);
+    transition: color 1s ease-out;
+}
+
+#l6hover:hover {
+    color: rgb(99, 0, 170);
+    transition: color 1s ease-out;
+}
+
+#l7hover:hover {
+    color: green;
+    transition: color 1s ease-out;
+}
+
+#l8hover:hover {
+    color: grey;
+    transition: color 1s ease-out;
+}
+
+#l9hover:hover {
+    color: red;
+    transition: color 1s ease-out;
+}
+
+#l10hover:hover {
+    color: rgb(0, 0, 190);
+    transition: color 1s ease-out;
+}
+
+#l11hover:hover {
+    color: rgb(231, 185, 33);
+    transition: color 1s ease-out;
+}
+
+#l12hover:hover {
+    color: rgb(255, 199, 16);
+    transition: color 1s ease-out;
+}
+
+#l13hover:hover {
+    color: rgb(255, 90, 118);
+    transition: color 1s ease-out;
+}
+
+#l14hover:hover {
+    color: rgb(185, 0, 0);
+    transition: color 1s ease-out;
+}
